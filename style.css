@@ -106,7 +106,7 @@ body {
     height: 100vh;
   }
 
-  .navbar .navbar-nav.active{
+  .navbar .navbar-nav .active{
     right: 0;
   }
 }
@@ -115,4 +115,5 @@ body {
   html {
     font-size: 50%;
   }
+
 }
