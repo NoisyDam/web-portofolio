@@ -76,6 +76,9 @@ body {
   color: #b6895b;
 }
 
+#hamburger-menu {
+  display: none;
+}
 
 /*media queries*/
 
